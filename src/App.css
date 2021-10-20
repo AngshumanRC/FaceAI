@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+
+
+.alignCenter{
+  display: flex;
+  justify-content: center;
+/*we have applied this css in ImageLinkForm.*/
+
+}
+
